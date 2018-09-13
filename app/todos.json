@@ -1,0 +1,16 @@
+{
+	"todos": [
+		{
+			"task": "hacer un tutorial de react",
+			"iscompleted": false
+		},
+		{
+			"task": "Desayunar el domingo",
+			"iscompleted": true
+		},
+		{
+			"task": "Cenar",
+			"iscompleted": false
+		}
+	]
+}
